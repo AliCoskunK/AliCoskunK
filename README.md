@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicoskunk&label=Profile%20views&color=0e75b6&style=flat" alt="alicoskunk" /> </p>
 
-- 🌱 I’m currently learning **Kotlin and Pyhton**
+- 🌱 I’m currently learning **Kotlin and Javascript**
 
 - 💬 Ask me about **Android**
 
